@@ -1,6 +1,6 @@
 name: "Upload cypress to BrowserStack"
 
-on: [push]
+
 jobs:
   ubuntu-job:
     name: 'BrowserStack Test on Ubuntu'
